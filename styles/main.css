@@ -1,0 +1,34 @@
+body{
+	background:black;
+	font-family: existencelight, sans-serif;
+	color: white;
+}
+
+ul {
+	list-style:none;
+}
+
+section { display:block; }
+
+img { 
+	width: 20px;
+	height: 20px;
+}
+
+.header .weather img{ 
+	width: 50px;
+	height: 50px;
+}
+
+.header .clock {
+	float: right;
+	width: 100px;
+	position: relative;
+	top: 20px;
+}
+
+.notifications { 
+	text-align:right; 
+	margin: 50px 20px 20px 20px;
+}
+
